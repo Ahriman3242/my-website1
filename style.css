@@ -10,18 +10,18 @@ p{
 }
 
 .img{
-    width: 100px;
-    height: 100px;
+    width: 50px;
+    height: 50px;
     position: absolute;
-    margin-left:500px;
-    margin-top: 200px;
+    margin-left:945px;
+    margin-top: 436px;
 }
 .img2{
-    width: 100px;
-    height: 100px;
+    width: 60px;
+    height: 60px;
     position: absolute;
-    margin-left:500px;
-    margin-top: 200px;
+    margin-left:600px;
+    margin-top: 400px;
 }
 
 .asd{
